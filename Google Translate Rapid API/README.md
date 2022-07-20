@@ -1,4 +1,6 @@
+# Simple Projects
 
+> Project: Creating a Translator Using Google Translate Rapid API.
 
 ## Build Setup
 
@@ -12,5 +14,13 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+## Learned
+using APIs, axios
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Images
+
+![1](https://user-images.githubusercontent.com/32294454/179959135-2a47e7d5-f962-449c-ae72-a536d16676d8.png)
+
+
+
+
